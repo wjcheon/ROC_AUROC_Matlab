@@ -2,7 +2,7 @@
 The script "main.m" is wirtten for drawing Receiver Operation Characteristic Curve (ROC curve) and calculating Area Under ROC curve (AUROC)  
   
 ### Figure    
-<img src = https://github.com/wjcheon/MontecalroOuput2RIT_Matlab/blob/master/DoseDistribution_HeterogeneousPhantom.png />  
+<img src = https://github.com/wjcheon/ROC_AUROC_Matlab/blob/master/ROC_AUROC_Figure.png/>  
 Fig.1 ROC curve and AUROC value for different screening methods  
   
   

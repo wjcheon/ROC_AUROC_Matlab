@@ -8,7 +8,7 @@ Fig.1 ROC curve and AUROC value for different screening methods
   
 ## Who am I 
 **Wonjoong Cheon**  
-Ph.D intergrated program  
+Ph.D candidate
 Medical Physics Lab. - SUMP Lab.  
 Samsung Advanced Institute for Health Science & Technology(SAIHST), SungKyunKwan University.  
 B.E. Dept. of Information and Communication Engineering , Yonsei University.  
