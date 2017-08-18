@@ -20,7 +20,7 @@ National Cancer Center (Computer Vision: 3D volume reconstruction and Tracking, 
 Vatech Vision reasearch Center (CT image reconstruction, 2012)  
 
 **Interest field**  
-Medical physics: Monte-carlo simulation, Development quality assurance tool
+Medical physics: Monte-carlo simulation, Development quality assurance tool  
 Machine learning: :)
 
 wonjoongcheon@gmail.com,   
